@@ -15,6 +15,6 @@
 
 
 ## Model Evaluation
-### Accuracy on Training data :  0.9885844748858448
+▪ Accuracy on Training data :  0.9885844748858448
 
-### Accuracy on Test Data :  0.9636363636363636
+▪ Accuracy on Test Data :  0.9636363636363636
