@@ -5,5 +5,7 @@
 
 ## Python Libraries:
 ▪ Numpy
+
 ▪ Pandas
+
 ▪ Scikit-learn
